@@ -1,0 +1,93 @@
+"2v2"
+{
+	"base"		"versus"
+	"maxplayers"    "8"
+	"playercontrolledzombies"	"4"
+
+	"DisplayTitle"	"6thMod 2v2"
+	"ShortDescription"	"2v2 Mutation"
+	"Description"	"2v2 Mutation"
+
+	"Image"		"maps/any"
+	"Author"	"accelerate // sixth night ever"
+
+	convar
+	{
+		vs_max_team_switches 9999
+		versus_round_restarttimer 10
+        survivor_limit 2
+		z_mega_mob_size 15
+		z_common_limit 7
+		sv_pausable 1
+		z_max_player_zombies 4
+		z_versus_hunter_limit 1
+		z_versus_boomer_limit 0
+		z_versus_smoker_limit 0
+		z_versus_jockey_limit 1
+		z_versus_charger_limit 1
+		z_versus_spitter_limit 0
+		z_ghost_delay_min 10
+		z_ghost_delay_max 10
+		z_mob_spawn_min_size 13
+		z_mob_spawn_max_size 13
+		z_mob_spawn_min_interval_normal 3600
+		z_mob_spawn_max_interval_normal 3600
+		z_tank_health 1600
+		z_jockey_ride_damage 3
+		z_jockey_ride_damage_interval 0.25
+		z_pounce_damage 5
+		z_pounce_damage_interval 0.2
+		hunter_pz_claw_dmg 5
+
+		sv_alltalk 0
+		sv_cheats 0
+		director_vs_convert_pills 0
+		director_convert_pills 0
+		director_convert_pills_critical_health 0
+		director_convert_pills_to_defib_health 0
+		pain_pills_decay_rate 0.27
+		z_fallen_max_count 0
+		sv_infected_ceda_vomitjar_probability 0
+		sv_force_time_of_day 0
+		z_brawl_chance 0
+		z_female_boomer_spawn_chance 50
+		nav_lying_down_percent 0
+		z_must_wander 1
+		z_pushaway_force 0
+		z_gun_swing_vs_min_penalty 1
+		z_gun_swing_vs_min_penalty 4
+		z_leap_interval_post_incap 18
+		z_jockey_control_variance 0.0
+		z_exploding_shove_min 4
+		z_exploding_shove_max 4
+		gascan_spit_time 2
+		z_vomit_interval 20
+		z_cough_cloud_radius 0
+		z_spit_interval 16
+		tongue_hit_delay 13
+		z_pounce_silence_range 999999
+		versus_shove_jockey_fov_leaping 30
+		z_holiday_gift_drop_chance 0
+		z_jockey_speed 275
+		tongue_release_fatigue_penalty 0
+		z_gun_survivor_friend_push 0
+		z_respawn_interval 20
+		sb_max_team_melee_weapons 4
+		z_charge_warmup 0
+		z_jockey_min_mounted_speed 0.68
+		boomer_exposed_time_tolerance 0.2
+		boomer_vomit_delay 0.1
+		hunter_pounce_ready_range 1000
+		hunter_committed_attack_range 600
+		versus_tank_flow_team_variation 0
+		versus_boss_flow_max 0.85
+		versus_boss_flow_min 0.20
+		tank_stuck_time_suicide 999999999
+		director_tank_lottery_selection_time 3
+		z_frustration_spawn_delay 25
+		z_frustration_los_delay 1.2
+		tankcontrol_print_all 1
+		tank_ground_pound_duration 0.1
+		director_ready_duration 0
+	}
+}
