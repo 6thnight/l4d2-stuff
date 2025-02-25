@@ -46,6 +46,10 @@ Massive thanks to the plugin creators:
 
 ---
 
+- This guy here for the infected hp display mod (idk chinese sorry lol) - https://steamcommunity.com/profiles/76561198965760019
+
+---
+
 ## 🤝 Testers
 
 Another massive thanks to my friends who helped testing:
