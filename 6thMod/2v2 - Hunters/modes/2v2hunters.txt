@@ -2,7 +2,7 @@
 {
 	"base"		"versus"
 	"maxplayers"    "8"
-	"playercontrolledzombies"	"4"
+	"playercontrolledzombies"	"2"
 
 	"DisplayTitle"	"6thMod 2v2 Hunters"
 	"ShortDescription"	"2v2 Mutation Hunters only"
