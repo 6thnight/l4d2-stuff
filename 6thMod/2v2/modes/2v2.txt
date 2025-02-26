@@ -18,7 +18,7 @@
        		survivor_limit 2
 		z_mega_mob_size 15
 		z_common_limit 7
-		sv_pausable 1
+		sv_pausable 0
 		z_max_player_zombies 4
 		z_versus_hunter_limit 1
 		z_versus_boomer_limit 0
