@@ -3,7 +3,7 @@ const filestring = "idd/lang_setting.txt";
 local dfl = FileToString(filestring);
 if(dfl == null)
 {
-	StringToFile(filestring,"0");
+	StringToFile(filestring,"1");
 }else 
 {
 	dfl = dfl.tointeger();
